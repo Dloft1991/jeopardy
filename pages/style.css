@@ -1,0 +1,73 @@
+.j-board {
+    
+}
+
+.container {
+    margin-top: 5%;
+}
+
+.row {
+
+}
+
+.col-sm-2 {
+    border: solid 3px black;
+    background-color: navy;
+    
+}
+
+.catagory {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.money {
+    color: gold;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.p-podium {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 2%;
+}
+.Player {
+    border: solid 5px black;
+    background-color: navy;
+    
+}
+.Player-score {
+    border: solid 5px black;
+    background-color: navy;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+#player-1 {
+    font-family: 'Covered By Your Grace', cursive;
+color: white;
+font-size: 50px;
+text-align: center;
+margin: 0 auto;
+}
+#player-2 {
+font-family: 'Mrs Saint Delafield', cursive;
+color: white;
+font-size: 50px;
+text-align: center;
+margin: 0 auto;
+}
+
+#player-3 {
+color: white;
+font-size: 50px;
+text-align: center;
+margin: 0 auto;
+font-family: 'Shadows Into Light', cursive;
+}
