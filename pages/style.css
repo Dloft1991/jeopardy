@@ -34,6 +34,7 @@
     margin-top: 5%;
     margin-bottom: 5%;
     margin-left: 2%;
+    margin-right: 2%;
 }
 .Player {
     border: solid 5px black;
@@ -70,4 +71,12 @@ font-size: 50px;
 text-align: center;
 margin: 0 auto;
 font-family: 'Shadows Into Light', cursive;
+}
+
+button {
+    border: solid 5px black;
+    background-color: navy;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
 }
